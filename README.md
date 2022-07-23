@@ -1,19 +1,24 @@
+<div sytle= "text-align='center';">
+    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="logotipo do HTML5">
+    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="Logotipo do CSS">
+
+</div>
 
 <h1>Formulário 2 responsivo com HTML e CSS</h1>
-<img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="logotipo do HTML5">
-<img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="Logotipo do CSS">
 
-
-> Status do Projeto: :heavy_check_mark:
+> Status do Projeto: Concluído :heavy_check_mark:
 
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação)
+
+:small_blue_diamond: [Casos de Uso](#casos-de-uso)
+
+:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes)
 
 
 ## Descrição do projeto 
@@ -45,8 +50,4 @@ Este formulário poderia ser realizado para ser feito um cadastro de uma pessoa 
 
 [<img src="https://github.com/kleytoncristovao.png" width=115><br><sub>Kleyton Cristovão</sub>](https://github.com/kleytoncristovao) 
 
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2022 - Formulário 2 responsivo com HTML e CSS
+<p style="text-align: 'center'; "> Copyright :copyright: 2022 - Formulário 2 responsivo com HTML e CSS </p>
