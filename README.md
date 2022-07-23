@@ -1,4 +1,4 @@
-<div sytle= "text-align='center';">
+<div sytle="display: flex; justify-content: space-arround">
     <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="logotipo do HTML5">
     <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="Logotipo do CSS">
 
@@ -41,7 +41,6 @@ git clone https://github.com/kleytoncristovao/Formulario-HTML-CSS-2.git
 ```
 
 ## Casos de Uso
-
 
 Este formulário poderia ser realizado para ser feito um cadastro de uma pessoa no seu site ou em qualquer outro, está somente com o HTML e CSS então não possui ligação com banco de dados ou funcionalidade para deixar completamente funcional.
 
