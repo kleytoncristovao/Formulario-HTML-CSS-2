@@ -4,7 +4,7 @@
 ## imagens do projeto
 
 <div display="block">
-  <img src="https://user-images.githubusercontent.com/90114049/180615872-96b00d72-a4cc-45e4-8b67-48d4c69a9b00.png" height="250" width="470" alt="imagem de demostração do projeto"  />
+  <img src="https://user-images.githubusercontent.com/90114049/180615872-96b00d72-a4cc-45e4-8b67-48d4c69a9b00.png" height="250" width="45%" alt="imagem de demostração do projeto"  />
     <img src="https://user-images.githubusercontent.com/90114049/180615950-061f3d72-ebe5-40a2-8c18-374f9c80e819.png" height="250" alt="imagem 2 de demostração do projeto "  />
     <img src="https://user-images.githubusercontent.com/90114049/180616023-436de010-28f5-4646-ae64-64c4a7c1e9cd.png" height="250" alt="imagem 3 de demostração do projeto "  />    
 </div>
