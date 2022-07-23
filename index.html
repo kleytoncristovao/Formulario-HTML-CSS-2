@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="asssets/css/style.css">
+    <title>Formulário de cadastro</title>
+</head>
+<body>
+    <div class="container">
+        <div class="form-image">
+            <img src="./asssets/img/undraw_mobile_interface_re_1vv9.svg" alt="Imagem ilustrativa de aprovação do formulário">
+        </div>
+        <div class="form">
+            <form action="#">
+                <div class="form-header">
+                    <div class="title">
+                        <h1>Cadastre-se</h1>
+                    </div>
+                    <div class="login-button">
+                        <button><a href="#"></a>Entrar</button>
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <div class="input-box">
+                        <label for="primeironome">Nome: </label>
+                        <input type="text" id="primeironome" name="primeironome" placeholder="Digite seu primeiro nome..." required>
+                    </div>
+                    <div class="input-box">
+                        <label for="apelido">Apelido: </label>
+                        <input type="text" id="apelido" name="apelido" placeholder="Digite seu apelido..." required>
+                    </div>
+                    <div class="input-box">
+                        <label for="email">Email: </label>
+                        <input type="email" id="email" name="email" placeholder="Digite seu Email..." required>
+                    </div>
+                    <div class="input-box">
+                        <label for="telefone">Teledone: </label>
+                        <input type="tel" id="telefone" name="telefone" placeholder="Digite seu Telefone..." required>
+                    </div>
+                    <div class="input-box">
+                        <label for="senha">Senha: </label>
+                        <input type="password" id="senha" name="senha" placeholder="Digite seu senha..." required>
+                    </div>
+                    <div class="input-box">
+                        <label for="confirmesenha">Confirme sua Senha: </label>
+                        <input type="password" id="confirmesenha" name="confirmesenha" placeholder="Confirme sua senha..." required>
+                    </div>
+                </div>
+                <div class="genero-inputs">
+                    <div class="genero-titulo">
+                        <h3>Gênero</h3>
+                    </div>
+
+                    <div class="genero-grupo">
+                        <div class="genero-input">
+                            <input type="radio" id="mulher" name="genero">
+                            <label for="mulher">Feminino</label>
+                        </div>
+                        <div class="genero-input">
+                            <input type="radio" id="homem" name="genero">
+                            <label for="homem">Masculino</label>
+                        </div>
+                        <div class="genero-input">
+                            <input type="radio" id="outros" name="genero">
+                            <label for="outros">Outros</label>
+                        </div>
+                        <div class="genero-input">
+                            <input type="radio" id="nenhum" name="genero">
+                            <label for="nenhum">Prefiro não dizer</label>
+                        </div>
+                    </div>
+                </div>
+                <button class="continuar-button"><a href="#">Contiunuar</a></button>
+            </form>
+        </div>
+    </div>
+    
+</body>
+</html>
