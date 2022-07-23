@@ -1,12 +1,20 @@
-<div sytle="display: flex; justify-content: space-arround">
-    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="logotipo do HTML5">
-    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="Logotipo do CSS">
+<h1>Formulário 2 responsivo com HTML e CSS</h1>
+> Status do Projeto: Concluído :heavy_check_mark:
 
+## imagens do projeto
+
+<div display="block">
+  <img src="https://user-images.githubusercontent.com/90114049/180615872-96b00d72-a4cc-45e4-8b67-48d4c69a9b00.png" height="250" width="470" alt="imagem de demostração do projeto"  />
+    <img src="https://user-images.githubusercontent.com/90114049/180615950-061f3d72-ebe5-40a2-8c18-374f9c80e819.png" height="250" alt="imagem 2 de demostração do projeto "  />
+    <img src="https://user-images.githubusercontent.com/90114049/180616023-436de010-28f5-4646-ae64-64c4a7c1e9cd.png" height="250" alt="imagem 3 de demostração do projeto "  />    
 </div>
 
-<h1>Formulário 2 responsivo com HTML e CSS</h1>
+## Tecnologias usadas
 
-> Status do Projeto: Concluído :heavy_check_mark:
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="logotipo do HTML"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="logotipo do CSS"  />
+</div>
 
 ### Tópicos 
 
@@ -14,17 +22,17 @@
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação)
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplica%C3%A7%C3%A3o-arrow_forward)
 
 :small_blue_diamond: [Casos de Uso](#casos-de-uso)
 
-:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes)
+:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
 
 ## Descrição do projeto 
 
 <p align="justify">
-  Este projeto foi desenvolvido com base no vídeo <a src="https://www.youtube.com/watch?v=zWw0npNDkVM&list=UUo-gJ8RnTn5akHqHvO55DVA&index=1">Formulário de Cadastro RESPONSIVO (Responsive Registration Form) | HTML e CSS</a> da Larissa Kich, fiz algumas implentenções e melhorias no projeto e melhorando para mim a responsividade do do formulário
+  Este projeto foi desenvolvido com base no vídeo <a href="https://www.youtube.com/watch?v=zWw0npNDkVM&list=UUo-gJ8RnTn5akHqHvO55DVA&index=1">Formulário de Cadastro RESPONSIVO (Responsive Registration Form) | HTML e CSS</a> da Larissa Kich, fiz algumas implentenções e melhorias no projeto e melhorando para mim a responsividade do do formulário
 </p>
 
 ## Deploy da Aplicação :dash:
@@ -49,4 +57,5 @@ Este formulário poderia ser realizado para ser feito um cadastro de uma pessoa 
 
 [<img src="https://github.com/kleytoncristovao.png" width=115><br><sub>Kleyton Cristovão</sub>](https://github.com/kleytoncristovao) 
 
-<p style="text-align: 'center'; "> Copyright :copyright: 2022 - Formulário 2 responsivo com HTML e CSS </p>
+
+<p align="center"> Copyright :copyright: 2022 - Formulário 2 responsivo com HTML e CSS </p>
